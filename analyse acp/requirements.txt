@@ -1,0 +1,14 @@
+pandas
+fanalysis
+numpy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+plotly
+scipy
+jupyterlab
+scikit-learn-extra
+xgboost
+lightgbm
+catboost
